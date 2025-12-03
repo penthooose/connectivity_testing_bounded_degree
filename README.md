@@ -1,6 +1,6 @@
 # Connectivity Testing (Bounded-Degree Model)
-
-- Related paper: [Connectivity Testing in the Bounded-Degree Model — Algorithms, Implementation, and Analysis](docs/Connectivity_Testing_in_the_Bounded_Degree_Model-Algorithms_Implementation_and_Analysis.pdf) — the PDF in the `docs/` folder describes the algorithms, implementation details, and analysis accompanying this repository.
+---
+Related paper: [Connectivity Testing in the Bounded-Degree Model — Algorithms, Implementation, and Analysis](docs/Connectivity_Testing_in_the_Bounded_Degree_Model-Algorithms_Implementation_and_Analysis.pdf) — the PDF in the `docs/` folder describes the algorithms, implementation details, and analysis accompanying this repository.
 
 ````
 
